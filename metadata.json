@@ -1,0 +1,6 @@
+{
+  "name": "SpendPause",
+  "description": "Mindful daily expense tracker and UPI impulse pause guard for Indian users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
